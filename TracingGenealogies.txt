@@ -1,0 +1,9 @@
+8
+Thatha,   3,   Uma, Usha, Shridhar
+Ajji,     3,   Uma, Usha, Shridhar
+Thathu,   2,   Nataraj, Ranjini
+Ammamma,  2,   Nararaj, Ranjini
+Uma,      1,   Shauraya
+Usha,     2,   Vivek, Meera
+Shridhar, 1,   Naren
+Ranjini,  1,   Naren
